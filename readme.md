@@ -4,4 +4,4 @@
 ### _PCB design, DC-DC power converter, Multilevel converters_
 [EN] The subject of the thesis is the PCB design for a step-down DC-DC converter. The aim of the work was to achieve better characteristics in relation to the reference design - a converter in the synchronous buck topology, used in the Kalman rover in 2022. New functionalities were added. The Flying Capacitor Multilevel Buck Converter topology was used. The optimal components for the new project were selected based on the analysis of power losses. The circuit was designed on a four-layer PCB using the Altium Designer software. The printed circuit board was manufactured by Aisler according to the design.
 
-![Project](top-layer.jpg)
+![Project](https://github.com/witoldwoszczyna/fcml/blob/main/top_layer.jpg)
